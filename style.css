@@ -1,0 +1,21 @@
+html {
+  font-family: 'Noto Sans Mono', monospace;
+  background-color: #282828;
+  color: #FFFFFF;
+}
+
+a {
+  color: #FFFFFF;
+}
+
+a:visited {
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #AAAAAA;
+}
+
+input {
+  
+}
