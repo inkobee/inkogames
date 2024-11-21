@@ -2,18 +2,18 @@
 
 /*This is the background of the site*/
 body {
-  background: black;
+  background: #282828;
 }
 
 
 /*This is the font used for the site*/
 body {
-  font-family: 'Courier New', monospace, Verdana;
+  font-family: 'Menlo', monospace;
 }
 
 /*This is the code for the cool typing effect for the title*/
 .typewriter h1 {
-    font-family: 'Courier New';
+    font-family: 'Menlo', monospace;
     color: white;
     letter-spacing: .17em;
     margin: 0 auto;
